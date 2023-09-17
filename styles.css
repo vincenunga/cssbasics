@@ -1,0 +1,8 @@
+/* Define a class for a reusable button */
+.button {
+    color: #fff;
+    background-color: #007bff;
+    font-style: italic;
+    font-family: Arial, sans-serif;
+    font-weight: 700;
+}
